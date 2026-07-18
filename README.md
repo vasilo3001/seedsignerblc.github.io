@@ -12,7 +12,7 @@ A beginner-friendly presentation on building your own air-gapped Bitcoin hardwar
 
 ## View the Presentation
 
-👉 [Live HTML Presentation](index.html)
+👉 [Live HTML Presentation](https://vasilo3001.github.io/seedsignerblc.github.io/)
 
 ## Philosophy
 
